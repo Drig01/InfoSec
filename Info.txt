@@ -1,0 +1,4 @@
+Ce fichier est un fichier informatif
+
+Le bot sera répartit dans des sous dossier différent pour chaque séssion de cours avec à chaque fois des commentaire pour que le code soit compris 
+Le bot sera assez basique et le choix de rajouter ou pas des informations ou des commandes vous reviens.
